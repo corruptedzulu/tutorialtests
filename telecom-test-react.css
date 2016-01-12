@@ -55,8 +55,14 @@ form {
   background: transparent;
   border: none;
   width: 100%;
-  padding-right: 80px;
+  padding-left: 10px;
+  padding-right: 10px;
   font-size: 1em;
+}
+
+.new-task #firstName {
+  /*width: 50%;*/
+
 }
 
 .new-task input:focus{
